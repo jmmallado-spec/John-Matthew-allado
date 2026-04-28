@@ -1,0 +1,4 @@
+<?php
+echo "Name: John Matthew M. Allado <br>";
+print "Course: BSIT";
+?>
